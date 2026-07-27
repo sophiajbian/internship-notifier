@@ -14,11 +14,16 @@ REPOS = [
     "vanshb03/Summer2027-Internships",
 ]
 
-# Only notify when a new line contains one of these (case-insensitive)
+# Only notify when a new line contains one of these (case-insensitive). also note I am interested in aerospace + embedded
 KEYWORDS = [
     "firmware", "embedded", "hardware", "pcb", "fpga", "asic", "rtl",
     "electrical", "avionics", "circuit", "semiconductor", "verilog",
     "vhdl", "chip design", "analog", "mixed signal",
+    "rtos", "microcontroller", "schematic", "altium", "layout engineer", 
+    "flight software", "guidance navigation", "satellite", "spacecraft", "propulsion",
+    "power electronics", "battery management", "bms", "motor controller", "inverter",
+    "electrical engineer intern", "hardware engineer intern", "swe", "software engineer intern", 
+    "software engineering intern", "swe intern", "full stack", "software developer intern",
 ]
 
 # Your ntfy.sh topic - install the ntfy app and subscribe to this exact topic name
