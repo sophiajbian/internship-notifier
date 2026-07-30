@@ -12,6 +12,10 @@ REPOS = [
     "acmalexandria/internships",
     "SimplifyJobs/Summer2026-Internships",
     "vanshb03/Summer2027-Internships",
+    "Jose-Gael-Cruz-Lopez/underclassmen-opportunities",
+    "zapplyjobs/underclassmen-internships",
+    "SimplifyJobs/Summer2027-Internships",
+    "LuisaE/opportunities",
 ]
 
 # Only notify when a new line contains one of these (case-insensitive). also note I am interested in aerospace + embedded
